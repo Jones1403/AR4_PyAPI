@@ -131,7 +131,7 @@ We welcome contributions to improve the AR4 API. If you have any suggestions or 
 
 ## License
 
-This project is licensed under the GPL V3 License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
